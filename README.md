@@ -5,3 +5,5 @@ To run the tests...
 ```
 docker run -v `pwd`:`pwd` -w `pwd` gilbitron/php7.0-mysql
 ```
+
+[View the slides](https://slides.com/philipbrown/deck)
